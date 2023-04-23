@@ -1,6 +1,6 @@
 # LeetCode
 My leetcode solution in Python.
 
-|Number|Problem|Difficult|
+|N.|Problem|Difficult|
 |---|---|---|
 |1|Two Sum|Easy|
