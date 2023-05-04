@@ -11,3 +11,4 @@ My leetcode solution in Python.
 |21|Merge Two Sorted Lists|Easy|
 |26|Remove Duplicates from Sorted Array|Easy|
 |27|Remove Element|Easy|
+|35|Search Insert Position|Easy|
