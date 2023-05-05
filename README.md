@@ -12,3 +12,4 @@ My leetcode solution in Python.
 |26|Remove Duplicates from Sorted Array|Easy|
 |27|Remove Element|Easy|
 |35|Search Insert Position|Easy|
+|66|Plus One|Easy|
