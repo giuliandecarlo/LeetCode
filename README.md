@@ -13,3 +13,4 @@ My leetcode solution in Python.
 |27|Remove Element|Easy|
 |35|Search Insert Position|Easy|
 |66|Plus One|Easy|
+|67|Add Binary|Easy|
