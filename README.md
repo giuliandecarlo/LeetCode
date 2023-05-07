@@ -14,3 +14,4 @@ My leetcode solution in Python.
 |35|Search Insert Position|Easy|
 |66|Plus One|Easy|
 |67|Add Binary|Easy|
+|69|Sqrt|Easy|
