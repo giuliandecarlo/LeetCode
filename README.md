@@ -15,3 +15,4 @@ My leetcode solution in Python.
 |66|Plus One|Easy|
 |67|Add Binary|Easy|
 |69|Sqrt|Easy|
+|70|Climbing Stairs|Easy|
