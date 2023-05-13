@@ -17,3 +17,4 @@ My leetcode solution in Python.
 |69|Sqrt|Easy|
 |70|Climbing Stairs|Easy|
 |83|Remove Duplicates from Sorted List|Easy|
+|88|Merge Sorted Array|Easy|
