@@ -18,3 +18,4 @@ My leetcode solution in Python.
 |70|Climbing Stairs|Easy|
 |83|Remove Duplicates from Sorted List|Easy|
 |88|Merge Sorted Array|Easy|
+|94|Binary Tree Inorder Trasversal|Easy|
