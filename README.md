@@ -19,3 +19,4 @@ My leetcode solution in Python.
 |83|Remove Duplicates from Sorted List|Easy|
 |88|Merge Sorted Array|Easy|
 |94|Binary Tree Inorder Trasversal|Easy|
+|136|Single Number|Easy|
