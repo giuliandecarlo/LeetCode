@@ -20,3 +20,4 @@ My leetcode solution in Python.
 |88|Merge Sorted Array|Easy|
 |94|Binary Tree Inorder Trasversal|Easy|
 |136|Single Number|Easy|
+|118|Pascal's Triangle|Easy|
