@@ -21,3 +21,4 @@ My leetcode solution in Python.
 |94|Binary Tree Inorder Trasversal|Easy|
 |136|Single Number|Easy|
 |118|Pascal's Triangle|Easy|
+|506|Relative Ranks|Easy|
