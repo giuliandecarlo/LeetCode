@@ -22,3 +22,4 @@ My leetcode solution in Python.
 |136|Single Number|Easy|
 |118|Pascal's Triangle|Easy|
 |506|Relative Ranks|Easy|
+|100|Same Tree|Easy|
