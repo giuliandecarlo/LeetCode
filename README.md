@@ -23,3 +23,4 @@ My leetcode solution in Python.
 |118|Pascal's Triangle|Easy|
 |506|Relative Ranks|Easy|
 |100|Same Tree|Easy|
+|101|Symmetric Tree|Easy|
