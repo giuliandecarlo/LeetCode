@@ -25,3 +25,4 @@ My leetcode solution in Python.
 |100|Same Tree|Easy|
 |101|Symmetric Tree|Easy|
 |104|Maximum Depth of Binary Tree|Easy|
+|217|Contains Duplicates|Easy|
