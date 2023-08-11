@@ -27,3 +27,4 @@ My leetcode solution in Python.
 |104|Maximum Depth of Binary Tree|Easy|
 |217|Contains Duplicates|Easy|
 |242|Valid Anagram|Easy|
+|49|Group Anagrams|Medium|
