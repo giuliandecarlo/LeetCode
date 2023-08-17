@@ -29,3 +29,4 @@ My leetcode solution in Python.
 |242|Valid Anagram|Easy|
 |49|Group Anagrams|Medium|
 |128|Longest Consecutive Sequence|Medium|
+|347|Top K Frequent Elements|Medium|
