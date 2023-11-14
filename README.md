@@ -31,6 +31,7 @@ My leetcode solution in Python.
 |704|Binary Search|Easy|
 |1791|Find Center of Star Graph|Easy|
 |121|Best Time to Buy and Sell Stock|Easy|
+|733|Flood Fill|Easy|
 |49|Group Anagrams|Medium|
 |128|Longest Consecutive Sequence|Medium|
 |347|Top K Frequent Elements|Medium|
