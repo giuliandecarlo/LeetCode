@@ -1,44 +1,44 @@
 # LeetCode
-My leetcode solution in Python.
+My leetcode solution in Python and C#.
 
-|N.|Problem|Difficult|
-|---|---|---|
-|1|Two Sum|Easy|
-|9|Palindrome Number|Easy|
-|13|Roman to Integer|Easy|
-|14|Longest Common Prefix|Easy|
-|20|Valid Parentheses|Easy|
-|21|Merge Two Sorted Lists|Easy|
-|26|Remove Duplicates from Sorted Array|Easy|
-|27|Remove Element|Easy|
-|35|Search Insert Position|Easy|
-|66|Plus One|Easy|
-|67|Add Binary|Easy|
-|69|Sqrt|Easy|
-|70|Climbing Stairs|Easy|
-|83|Remove Duplicates from Sorted List|Easy|
-|88|Merge Sorted Array|Easy|
-|94|Binary Tree Inorder Trasversal|Easy|
-|136|Single Number|Easy|
-|118|Pascal's Triangle|Easy|
-|506|Relative Ranks|Easy|
-|100|Same Tree|Easy|
-|101|Symmetric Tree|Easy|
-|104|Maximum Depth of Binary Tree|Easy|
-|217|Contains Duplicates|Easy|
-|242|Valid Anagram|Easy|
-|125|Valid Palindrome|Easy|
-|704|Binary Search|Easy|
-|1791|Find Center of Star Graph|Easy|
-|121|Best Time to Buy and Sell Stock|Easy|
-|733|Flood Fill|Easy|
-|232|Implement Queue using Stacks|Easy|
-|49|Group Anagrams|Medium|
-|128|Longest Consecutive Sequence|Medium|
-|347|Top K Frequent Elements|Medium|
-|238|Product of Array Except Self|Medium|
-|167|Two Sum II|Medium|
-|15|3Sum|Medium|
-|150|Evaluate Reverse Polish Notation|Medium|
-|11|Container With Most Water|Medium|
-|739|Daily Temperatures|Medium|
+|N.|Problem|Difficult|Language|
+|---|---|---|---|
+|1|Two Sum|Easy|Python, C#|
+|9|Palindrome Number|Easy|Python|
+|13|Roman to Integer|Easy|Python|
+|14|Longest Common Prefix|Easy|Python|
+|20|Valid Parentheses|Easy|Python|
+|21|Merge Two Sorted Lists|Easy|Python|
+|26|Remove Duplicates from Sorted Array|Easy|Python|
+|27|Remove Element|Easy|Python|
+|35|Search Insert Position|Easy|Python|
+|66|Plus One|Easy|Python|
+|67|Add Binary|Easy|Python|
+|69|Sqrt|Easy|Python|
+|70|Climbing Stairs|Easy|Python|
+|83|Remove Duplicates from Sorted List|Easy|Python|
+|88|Merge Sorted Array|Easy|Python|
+|94|Binary Tree Inorder Trasversal|Easy|Python|
+|136|Single Number|Easy|Python|
+|118|Pascal's Triangle|Easy|Python|
+|506|Relative Ranks|Easy|Python|
+|100|Same Tree|Easy|Python|
+|101|Symmetric Tree|Easy|Python|
+|104|Maximum Depth of Binary Tree|Easy|Python|
+|217|Contains Duplicates|Easy|Python|
+|242|Valid Anagram|Easy|Python|
+|125|Valid Palindrome|Easy|Python|
+|704|Binary Search|Easy|Python|
+|1791|Find Center of Star Graph|Easy|Python|
+|121|Best Time to Buy and Sell Stock|Easy|Python|
+|733|Flood Fill|Easy|Python|
+|232|Implement Queue using Stacks|Easy|Python|
+|49|Group Anagrams|Medium|Python|
+|128|Longest Consecutive Sequence|Medium|Python|
+|347|Top K Frequent Elements|Medium|Python|
+|238|Product of Array Except Self|Medium|Python|
+|167|Two Sum II|Medium|Python|
+|15|3Sum|Medium|Python|
+|150|Evaluate Reverse Polish Notation|Medium|Python|
+|11|Container With Most Water|Medium|Python|
+|739|Daily Temperatures|Medium|Python|
