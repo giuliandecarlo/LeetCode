@@ -19,26 +19,27 @@ My leetcode solution in Python and C#.
 |83|Remove Duplicates from Sorted List|Easy|Python|
 |88|Merge Sorted Array|Easy|Python|
 |94|Binary Tree Inorder Trasversal|Easy|Python|
-|136|Single Number|Easy|Python|
-|118|Pascal's Triangle|Easy|Python|
-|506|Relative Ranks|Easy|Python|
 |100|Same Tree|Easy|Python|
 |101|Symmetric Tree|Easy|Python|
 |104|Maximum Depth of Binary Tree|Easy|Python|
-|217|Contains Duplicates|Easy|Python|
-|242|Valid Anagram|Easy|Python|
-|125|Valid Palindrome|Easy|Python|
-|704|Binary Search|Easy|Python|
-|1791|Find Center of Star Graph|Easy|Python|
+|118|Pascal's Triangle|Easy|Python|
 |121|Best Time to Buy and Sell Stock|Easy|Python|
-|733|Flood Fill|Easy|Python|
+|125|Valid Palindrome|Easy|Python|
+|136|Single Number|Easy|Python|
+|217|Contains Duplicates|Easy|Python|
 |232|Implement Queue using Stacks|Easy|Python|
+|242|Valid Anagram|Easy|Python|
+|290|Word Pattern|Easy|C#|
+|506|Relative Ranks|Easy|Python|
+|704|Binary Search|Easy|Python|
+|733|Flood Fill|Easy|Python|
+|1791|Find Center of Star Graph|Easy|Python|
+|11|Container With Most Water|Medium|Python|
+|15|3Sum|Medium|Python|
 |49|Group Anagrams|Medium|Python|
 |128|Longest Consecutive Sequence|Medium|Python|
-|347|Top K Frequent Elements|Medium|Python|
-|238|Product of Array Except Self|Medium|Python|
-|167|Two Sum II|Medium|Python|
-|15|3Sum|Medium|Python|
 |150|Evaluate Reverse Polish Notation|Medium|Python|
-|11|Container With Most Water|Medium|Python|
+|167|Two Sum II|Medium|Python|
+|238|Product of Array Except Self|Medium|Python|
+|347|Top K Frequent Elements|Medium|Python|
 |739|Daily Temperatures|Medium|Python|
