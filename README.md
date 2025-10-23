@@ -30,6 +30,7 @@ My leetcode solution in Python and C#.
 |232|Implement Queue using Stacks|Easy|Python|
 |242|Valid Anagram|Easy|Python|
 |290|Word Pattern|Easy|C#|
+|344|Reverse String|Easy|C#|
 |506|Relative Ranks|Easy|Python|
 |704|Binary Search|Easy|Python|
 |733|Flood Fill|Easy|Python|
