@@ -5,7 +5,7 @@ My leetcode solution in Python and C#.
 |---|---|---|---|
 |1|Two Sum|Easy|Python, C#|
 |9|Palindrome Number|Easy|Python|
-|13|Roman to Integer|Easy|Python|
+|13|Roman to Integer|Easy|Python, C#|
 |14|Longest Common Prefix|Easy|Python|
 |20|Valid Parentheses|Easy|Python|
 |21|Merge Two Sorted Lists|Easy|Python|
