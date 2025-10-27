@@ -28,7 +28,7 @@ My leetcode solution in Python and C#.
 |136|Single Number|Easy|Python|
 |217|Contains Duplicates|Easy|Python|
 |232|Implement Queue using Stacks|Easy|Python|
-|242|Valid Anagram|Easy|Python|
+|242|Valid Anagram|Easy|Python, C#|
 |290|Word Pattern|Easy|C#|
 |344|Reverse String|Easy|C#|
 |506|Relative Ranks|Easy|Python|
