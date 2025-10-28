@@ -42,5 +42,5 @@ My leetcode solution in Python and C#.
 |150|Evaluate Reverse Polish Notation|Medium|Python|
 |167|Two Sum II|Medium|Python|
 |238|Product of Array Except Self|Medium|Python|
-|347|Top K Frequent Elements|Medium|Python|
+|347|Top K Frequent Elements|Medium|Python, C#|
 |739|Daily Temperatures|Medium|Python|
