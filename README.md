@@ -26,6 +26,7 @@ My leetcode solution in Python and C#.
 |121|Best Time to Buy and Sell Stock|Easy|Python|
 |125|Valid Palindrome|Easy|Python|
 |136|Single Number|Easy|Python|
+|169|Majority Element|Easy|C#|
 |217|Contains Duplicates|Easy|Python|
 |232|Implement Queue using Stacks|Easy|Python|
 |242|Valid Anagram|Easy|Python, C#|
