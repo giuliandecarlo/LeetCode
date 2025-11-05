@@ -35,6 +35,7 @@ My leetcode solution in Python and C#.
 |290|Word Pattern|Easy|C#|
 |344|Reverse String|Easy|C#|
 |506|Relative Ranks|Easy|Python|
+|509|Fibonacci Number|Easy|C#|
 |704|Binary Search|Easy|Python|
 |733|Flood Fill|Easy|Python|
 |1791|Find Center of Star Graph|Easy|Python|
