@@ -39,6 +39,7 @@ My leetcode solution in Python and C#.
 |509|Fibonacci Number|Easy|C#|
 |704|Binary Search|Easy|Python|
 |733|Flood Fill|Easy|Python|
+|1768|Merge Strings Alternately|Easy|C#|
 |1791|Find Center of Star Graph|Easy|Python|
 |11|Container With Most Water|Medium|Python|
 |15|3Sum|Medium|Python|
