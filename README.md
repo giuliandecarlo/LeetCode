@@ -37,6 +37,7 @@ My leetcode solution in Python and C#.
 |344|Reverse String|Easy|C#|
 |506|Relative Ranks|Easy|Python|
 |509|Fibonacci Number|Easy|C#|
+|605|Can Place Flowers|Easy|C#|
 |704|Binary Search|Easy|Python|
 |733|Flood Fill|Easy|Python|
 |1768|Merge Strings Alternately|Easy|C#|
