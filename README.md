@@ -33,6 +33,7 @@ My leetcode solution in Python and C#.
 |242|Valid Anagram|Easy|Python, C#|
 |258|Add Digits|Easy|C#|
 |268|Missing Number|Easy|C#|
+|283|Move Zeroes|Easy|C#|
 |290|Word Pattern|Easy|C#|
 |344|Reverse String|Easy|C#|
 |506|Relative Ranks|Easy|Python|
