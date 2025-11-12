@@ -36,6 +36,7 @@ My leetcode solution in Python and C#.
 |283|Move Zeroes|Easy|C#|
 |290|Word Pattern|Easy|C#|
 |344|Reverse String|Easy|C#|
+|392|Is Subsequence|Easy|C#|
 |506|Relative Ranks|Easy|Python|
 |509|Fibonacci Number|Easy|C#|
 |605|Can Place Flowers|Easy|C#|
