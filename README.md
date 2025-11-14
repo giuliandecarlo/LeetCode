@@ -43,6 +43,7 @@ My leetcode solution in Python and C#.
 |704|Binary Search|Easy|Python|
 |733|Flood Fill|Easy|Python|
 |1071|Greatest Common Divisor of Strings|Easy|C#|
+|1431|Kids With the Greatest Number of Candies|Easy|C#|
 |1768|Merge Strings Alternately|Easy|C#|
 |1791|Find Center of Star Graph|Easy|Python|
 |11|Container With Most Water|Medium|Python|
