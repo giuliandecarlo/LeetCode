@@ -41,6 +41,7 @@ My leetcode solution in Python and C#.
 |506|Relative Ranks|Easy|Python|
 |509|Fibonacci Number|Easy|C#|
 |605|Can Place Flowers|Easy|C#|
+|643|Maximum Average Subarray I|Easy|C#|
 |704|Binary Search|Easy|Python|
 |733|Flood Fill|Easy|Python|
 |1071|Greatest Common Divisor of Strings|Easy|C#|
