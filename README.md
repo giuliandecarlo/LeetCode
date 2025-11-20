@@ -48,6 +48,7 @@ My leetcode solution in Python and C#.
 |1431|Kids With the Greatest Number of Candies|Easy|C#|
 |1768|Merge Strings Alternately|Easy|C#|
 |1791|Find Center of Star Graph|Easy|Python|
+|2215|Find the Difference of Two Arrays|Easy|Python|
 |11|Container With Most Water|Medium|Python|
 |15|3Sum|Medium|Python|
 |49|Group Anagrams|Medium|Python|
