@@ -47,6 +47,7 @@ My leetcode solution in Python and C#.
 |1071|Greatest Common Divisor of Strings|Easy|C#|
 |1207|Unique Number of Occurrences|Easy|C#|
 |1431|Kids With the Greatest Number of Candies|Easy|C#|
+|1732|Find the Highest Altitude|Easy|C#|
 |1768|Merge Strings Alternately|Easy|C#|
 |1791|Find Center of Star Graph|Easy|Python|
 |2215|Find the Difference of Two Arrays|Easy|Python|
