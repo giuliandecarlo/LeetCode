@@ -45,6 +45,7 @@ My leetcode solution in Python and C#.
 |704|Binary Search|Easy|Python|
 |724|Find Pivot Index|Easy|C#|
 |733|Flood Fill|Easy|Python|
+|933|Number of Recent Calls|Easy|C#|
 |1071|Greatest Common Divisor of Strings|Easy|C#|
 |1207|Unique Number of Occurrences|Easy|C#|
 |1431|Kids With the Greatest Number of Candies|Easy|C#|
