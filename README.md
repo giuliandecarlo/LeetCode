@@ -38,6 +38,7 @@ My leetcode solution in Python and C#.
 |344|Reverse String|Easy|C#|
 |345|Reverse Vowels of a String|Easy|C#|
 |392|Is Subsequence|Easy|C#|
+|476|Number Complement|Easy|C#|
 |500|Keyboard Row|Easy|C#|
 |506|Relative Ranks|Easy|Python|
 |509|Fibonacci Number|Easy|C#|
